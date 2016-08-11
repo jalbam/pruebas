@@ -1,0 +1,9 @@
+Pruebas
+--------
+Este juego inacabado y sin nombre "real" fue desarrollado por mi cuando aprendia
+QBasic de MS-DOS 6.22 cuando tendria unos 12 años, si mal no recuerdo (por
+el 1996/1997).
+Mas tarde lo he compilado con QuickBasic 4.5 de MS-DOS.
+
+------------------------
+Joan Alba Maldonado
