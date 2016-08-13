@@ -1,5 +1,6 @@
-Pruebas
-======== by Joan Alba Maldonado (granvino@granvino.com)
+Pruebas 
+======== 
+by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 Mix of text adventure game and RPG totally written in QBasic.
 
