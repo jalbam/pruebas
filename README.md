@@ -10,7 +10,11 @@ You can donate at http://sourceforge.net/donate/index.php?group_id=173754
 
 Description
 
-Pruebas is an open source game combination of text adventure and RPG written in Microsoft QBasic (under MS-DOS 6.22) that uses keyboard.
-Runs natively under MS-DOS and compatible OS like Windows (use emulators like DosBox to run it under BeOS, Linux, *BSD, etc).
+Open source game combination of text adventure and RPG written in Microsoft QBasic (under MS-DOS 6.22).
+
+It is one of my first games that I created in 1996 or 1997 (I can't remember), when I was about 12 years old (my birthday is in November). It is in Spanish language.
+
+Runs natively under MS-DOS and compatible operating systems like Windows (you can use emulators like DosBox to run it under BeOS, Linux, *BSD, etc).
+
 
 Official web site: http://pruebas.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/pruebas/).
