@@ -22,5 +22,9 @@ Later, it was compiled using QuickBasic 4.5 on MS-DOS.
 
 Runs natively under MS-DOS and compatible operating systems like Windows (you can use emulators like DosBox to run it under BeOS, Linux, *BSD, etc).
 
-
 Official web site: http://pruebas.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/pruebas/).
+
+
+## License
+
+This project can be used, reproduced, distributed and modified freely for any non-commercial purposes but always keeping the author's name and copyright clauses. Other than that, just use this project as you wish but never sell it!
