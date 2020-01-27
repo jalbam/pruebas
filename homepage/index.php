@@ -9,7 +9,7 @@
     $summary = 'Mix of text adventure game and RPG totally written in QBasic.';
     
     //Descripcion:
-    $description = 'Pruebas is an open source game combination of text adventure and RPG written in Microsoft QBasic (under MS-DOS 6.22) that uses keyboard.[br]Runs natively under MS-DOS and compatible OS like Windows (use emulators like DosBox to run it under BeOS, Linux, *BSD, etc).';
+    $description = 'Pruebas is an open source game combination of text adventure and RPG written in Microsoft QBasic (under MS-DOS 6.22) that uses keyboard.[br]Runs natively under MS-DOS and compatible OS like Windows (use emulators like DOSBox to run it under BeOS, Linux, *BSD, etc).[br]Some ASCII art was obtained from the Internet.';
         
     //Version:
     $version = "1996 or 1997";

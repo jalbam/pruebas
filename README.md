@@ -16,11 +16,11 @@ You can donate at http://sourceforge.net/donate/index.php?group_id=173754
 
 Open source game combination of text adventure and RPG written in Microsoft QBasic (under MS-DOS 6.22).
 
-It is one of my first games that I created in 1996 or 1997 (I can't remember), when I was about 12 years old (my birthday is in November). It is in Spanish language.
+It is one of my first games that I created in 1996 or 1997 (I can't remember), when I was about 12 years old (my birthday is in November). It is in Spanish language. Some ASCII art was obtained from the Internet.
 
 Later, it was compiled using QuickBasic 4.5 on MS-DOS.
 
-Runs natively under MS-DOS and compatible operating systems like Windows (you can use emulators like DosBox to run it under BeOS, Linux, *BSD, etc).
+Runs natively under MS-DOS and compatible operating systems like Windows (you can use emulators like DOSBox to run it under BeOS, Linux, *BSD, etc).
 
 Official web site: http://pruebas.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/pruebas/).
 
