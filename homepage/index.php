@@ -182,6 +182,13 @@
                 <ul><li> Spanish language: <a href="<?php echo $unix; ?>_spanish.zip" title="download Spanish version"><?php echo $unix; ?>_spanish.zip</a> <i>(<?php printf("%.2f", filesize($unix."_spanish.zip") / 1024); ?> KB)</i></li></ul>
             </ul>
         </font>
+        <font face="verdana"><h2>Play on-line</h2></font>
+        <font face="arial" size="3">
+            <ul>
+                <li> <?php echo $version; ?> version</li>
+                <ul><li> <a href="https://archive.org/details/pruebas_spanish" target="_blank" title="play Spanish version">play Spanish version</a> - Using on-line DOSBox emulator (thanks to <a href="https://archive.org" target="_blank">Internet Archive</a>), with some issues</li></ul>
+            </ul>
+        </font>
         <font face="verdana"><h2>Screenshots</h2></font>
         <ul>
             <img src="<?php echo $unix; ?>.gif" hspace="0" vspace="0" alt="screenshot <?php echo $unix; ?>.gif" title="<?php echo $title; ?>" style="max-width:100%;">
