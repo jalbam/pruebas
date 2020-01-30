@@ -22,3 +22,4 @@
 *.RTF	 diff=astextplain
 
 *.BAS linguist-language=QBasic
+*.php linguist-detectable=false
